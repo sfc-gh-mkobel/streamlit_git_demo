@@ -11,4 +11,4 @@ st.write(
     """
 )
 
-st.title("After update the code from git")
+#st.title("After updating the code from Git")
