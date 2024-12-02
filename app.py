@@ -10,3 +10,5 @@ st.write(
     [docs.streamlit.io](https://docs.streamlit.io).
     """
 )
+
+st.title("After update the code from git")
